@@ -1127,3 +1127,22 @@ contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
 improvedigital.com, 1361, RESELLER
 
 triplelift.com, 12552, RESELLER, 6c33edb13117fd86
+appnexus.com, 11826, RESELLER
+
+appnexus.com, 13227, RESELLER
+
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+
+pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
+
+pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
+
+spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
+
+spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
+
+spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
+
+spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
+
+yandex.com, 95746987, RESELLER
