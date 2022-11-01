@@ -1146,3 +1146,4 @@ spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 
 yandex.com, 95746987, RESELLER
+google.com, pub-8513559604426321, DIRECT, f08c47fec0942fa0
