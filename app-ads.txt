@@ -1147,3 +1147,23 @@ spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 
 yandex.com, 95746987, RESELLER
 google.com, pub-8513559604426321, DIRECT, f08c47fec0942fa0
+fyber.com, 213862, DIRECT
+appnexus.com, 14077, RESELLER
+pubmatic.com, 162195, RESELLER
+rhebus.works, 3370572591, RESELLER
+rubiconproject.com, 13132, RESELLER
+rubiconproject.com, 24448, RESELLER
+sharethrough.com, 6qlnf8SY, RESELLER
+smartclip.net, 12358, RESELLER
+smartclip.net, 12422, RESELLER
+smartstream.tv, 667, RESELLER
+thebrave.io, 1234585, RESELLER
+thebrave.io, 1234598, RESELLER
+triplelift.com, 11656, RESELLER
+triplelift.com, 12456, RESELLER
+video.unrulymedia.com, 7823643795310613975, RESELLER
+VideoHeroes.tv, 212504, RESELLER
+xad.com, 556, RESELLER
+xandr.com, 13799, RESELLER
+xandr.com, 13709, RESELLER
+yahoo.com, 59781, RESELLER
