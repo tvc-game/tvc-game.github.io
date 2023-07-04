@@ -11,6 +11,31 @@ applovin.com, 63c7df7a6c8336926a069294809f25f0, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+adform.com, 1512, RESELLER
+
+adform.com, 2845, RESELLER, 9f5210a2f0999e32
+
+adview.com, 53849096, RESELLER, 1b2cc038a11ea319
+
+appnexus.com, 3741, RESELLER
+
+chocolateplatform.com, 14630, RESELLER, 49a66ce31a704197
+
+cmt.ortb.net, 574264812, RESELLER
+
+e-planning.net, 8dd4d4d1d45eb51e, RESELLER, c1ba615865ed87b2
+
+hax.ortb.net, 655942, RESELLER
+
+lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER, 524ecb396915caaf
+
+pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+
+rtbhouse.com, fqmvmwnh9tkzclzoqjfn, RESELLER
+
+smartyads.com, 942, RESELLER, fd2bde0ff2e62c5d
+
+xandr.com, 7847, RESELLER, f5ab79cb980f11d1
 xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
