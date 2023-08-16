@@ -3490,3 +3490,64 @@ yandex.com, 63904735, RESELLER
 smartadserver.com,4610, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 bigo.sg, 707, DIRECT
+152media.info, 152M392, RESELLER
+
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+
+adingenious.com, 70004, DIRECT
+
+aralego.com, par-8A2AD843B76A2B93CB24D4B7D694B67E, RESELLER
+
+axonix.com, 59089, RESELLER, bc385f2b4a87b721
+
+axonix.com, 57264, RESELLER, bc385f2b4a87b721
+
+consumable.com, 2001485, RESELLER, aefcd3d2f45b5070
+
+criteo.com, B-071781, RESELLER, 9fac4a4a87c2a44f
+
+criteo.com, B-066465, DIRECT, 9fac4a4087c2a44f
+
+display.io, 173162, RESELLER
+
+improvedigital.com, 2276, RESELLER
+
+onetag.com, 775964f987238d8-OB, RESELLER
+
+opera.com, pub9426044543296, RESELLER, 55a0c5fd61378de3
+
+pubmatic.com, 163531, RESELLER, 5d62403b186f2ace
+
+rhythmone.com, 676914333, RESELLER, a670c89d4a324e47
+
+rtbhouse.com, FqMvmwNH9TkzclzoqJFn, RESELLER
+
+rubiconproject.com, 22554, RESELLER, 0bfd66d529a55807
+
+sharethrough.com, 8PCl5qwg, RESELLER, d53b998a7bd4ecd2
+
+smaato.com, 1100054974, DIRECT, 07bcf65f187117b4
+
+sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
+
+themediagrid.com, QPSEL3, RESELLER, 35d5010d7789b49d
+
+themediagrid.com, 2UFXZO, DIRECT, 35d5010d7789b49d
+
+triplelift.com, 13041-EB, RESELLER, 6c33edb13117fd86
+
+triplelift.com, 12883-EB, RESELLER, 6c33edb13117fd86
+
+ucfunnel.com, par-8A2AD843B76A2B93CB24D4B7D694B67E, RESELLER
+
+video.unrulymedia.com, 676914333, RESELLER
+
+video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
+applovin.com, 63c7df7a6c8336926a069294809f25f0, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
