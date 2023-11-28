@@ -1,7 +1,12 @@
 152media.info, 152M324, RESELLER
 
 adsyield.com, 1233, DIRECT
-
+#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com, 3055722897079350, DIRECT
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
 connekt.ai, 5585919044, RESELLER
 
 criteo.com, B-072395, RESELLER, 9fac4a4a87c2a44f
