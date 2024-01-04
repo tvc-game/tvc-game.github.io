@@ -1,5 +1,5 @@
 152media.info, 152M324, RESELLER
-
+yandex.com, 103842965, DIRECT
 adsyield.com, 1233, DIRECT
 #Premium Programmatic Demand by publisher@greedygame.com
 greedygame.com, 3055722897079350, DIRECT
