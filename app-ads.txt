@@ -1,5 +1,46 @@
 facebook.com, 1628327730754812, DIRECT, c3e20eee3f780d68
 google.com, pub-1801408216613473, DIRECT, f08c47fec0942fa0
+krushmedia.com, ajxf6r585a9m6catvk, RESELLER
+webeyemob.com, 80029, RESELLER
+appnexus.com, 15629, RESELLER
+contextweb.com, 563217, RESELLER, 89ff185a4c4e857c
+video.unrulymedia.com, 585054906, RESELLER
+zmaticoo.com, 5135704, RESELLER
+ignitemediatech.com, pub_11115, RESELLER
+video.unrulymedia.com, 324806554, RESELLER, a670c89d4a324e47
+mars.media, 1010442, RESELLER, 8624339f102fb076
+openx.com, 540861995, RESELLER, 6a698e2ec38604c6
+voisetech.com, 1066, RESELLER
+videoheroes.tv, 212428, RESELLER, 064bc410192443d8
+adform.com, 716, RESELLER
+rubiconproject.com, 26270, RESELLER, 0bfd66d529a55807
+orangeclickmedia.com, c-1181, RESELLER
+eskimi.com, 2020000663, RESELLER
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+onlinemediasolutions.com, 23120, RESELLER
+thunder-monetize.com, 5257091605, RESELLER
+admanmedia.com, 2153, RESELLER
+rubiconproject.com, 26158, RESELLER, 0bfd66d529a55807
+thunder-monetize.com, 8221217003, RESELLER
+video.unrulymedia.com, 755432070, RESELLER
+vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
+improvedigital.com, 2464, RESELLER
+eliteappgrade.com, 494223, RESELLER
+eskimi.com, 2020000545, RESELLER
+video.unrulymedia.com, 2743945877, RESELLER
+admanmedia.com, 2242, RESELLER
+prado.co, 14260, RESELLER
+video.unrulymedia.com, 158727213, RESELLER
+rubiconproject.com, 26156, RESELLER, 0bfd66d529a55807
+lacunads.com, lcb555b3bc8667a09a, RESELLER
+video.unrulymedia.com, 6111915185540403805, RESELLER
+pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+tradplusad.com, b3fca24bd11c1242, RESELLER
+connekt.ai, 1732945743, RESELLER
+bid-matrix.com, f2c71a45ea149366, RESELLER
+sharethrough.com, xekuhskz, RESELLER, d53b998a7bd4ecd2
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+ushareit.com, lcb555b3bc8667a09a, RESELLER
 applovin.com, 63c7df7a6c8336926a069294809f25f0, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
