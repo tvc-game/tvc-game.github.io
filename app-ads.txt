@@ -5,6 +5,19 @@ webeyemob.com, 80029, RESELLER
 appnexus.com, 15629, RESELLER
 toponad.com, 57c0214186ecc0f6b239eddf4ef3715b, DIRECT, 1d49fe424a1a456d
 acexchange.co.kr, 1368497933, RESELLER
+appnexus.com, 16769, RESELLER, f5ab79cb980f11d1
+inmobi.com, e26b3ca44a074f1e8de7e4ff5b31f772, RESELLER, 83e75a7ae333ca9d
+nexverse.ai, 24180, RESELLER
+rubiconproject.com, 26608, RESELLER, 0bfd66d529a55807
+sipo-inc.com, 122558, RESELLER
+smartadserver.com, 5407, RESELLER, 060d053dcf45cbf3
+inmobi.com, 9ee4d8a2685f422eacd68b95d1f3c019, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 27320, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27322, RESELLER, 0bfd66d529a55807
+smartadserver.com, 5070, RESELLER, 060d053dcf45cbf3
+start.io, 197403684, RESELLER
+themediagrid.com, 64NHQ1, RESELLER, 35d5010d7789b49d
+
 admixer.net, 1046d8dc-f1a9-439d-a8a5-3401fda83729, RESELLER
 axonix.com, 59202, RESELLER
 axonix.com, 59203, RESELLER
