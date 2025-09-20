@@ -3,6 +3,11 @@ google.com, pub-1801408216613473, DIRECT, f08c47fec0942fa0
 krushmedia.com, ajxf6r585a9m6catvk, RESELLER
 webeyemob.com, 80029, RESELLER
 appnexus.com, 15629, RESELLER
+smartadserver.com, 4284, RESELLER, 060d053dcf45cbf3
+media.net, 8CUE65SNU, RESELLER
+freewheel.tv, 1138513-524565, RESELLER
+freewheel.tv, sg1258340, RESELLER
+supply.colossusssp.com, 907, RESELLER
 toponad.com, 57c0214186ecc0f6b239eddf4ef3715b, DIRECT, 1d49fe424a1a456d
 acexchange.co.kr, 1368497933, RESELLER
 appnexus.com, 16769, RESELLER, f5ab79cb980f11d1
