@@ -11,6 +11,10 @@ supply.colossusssp.com, 907, RESELLER
 toponad.com, 57c0214186ecc0f6b239eddf4ef3715b, DIRECT, 1d49fe424a1a456d
 acexchange.co.kr, 1368497933, RESELLER
 appnexus.com, 16769, RESELLER, f5ab79cb980f11d1
+mintegral.com, 22942, RESELLER, 0aeed750c80d6423
+pubmatic.com, 167103, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167104, RESELLER, 5d62403b186f2ace
+
 inmobi.com, e26b3ca44a074f1e8de7e4ff5b31f772, RESELLER, 83e75a7ae333ca9d
 nexverse.ai, 24180, RESELLER
 rubiconproject.com, 26608, RESELLER, 0bfd66d529a55807
