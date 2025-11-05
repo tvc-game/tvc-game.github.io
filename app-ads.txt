@@ -8,6 +8,27 @@ smartadserver.com, 4284, RESELLER, 060d053dcf45cbf3
 media.net, 8CUE65SNU, RESELLER
 freewheel.tv, 1138513-524565, RESELLER
 freewheel.tv, sg1258340, RESELLER
+bidmachine.io, 100, reseller
+mindtos.com, mt45eb5f865ce39e1b, reseller
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, reseller
+smaato.com, 1100059052, reseller, 07bcf65f187117b4
+e-volution.ai, ajxf6r378a9m6catvk, reseller
+smaato.com, 1100053415, reseller, 07bcf65f187117b4
+improvedigital.com, 2607, reseller
+onlinemediasolutions.com, 29556, reseller, b3868b187e4b6402
+tradplusad.com, ba761e9c72f279da, reseller
+yellowhead.com, 67b9c0a1d2e345, reseller
+themediagrid.com, ws2d8n, reseller, 35d5010d7789b49d
+bluexad.ai, 1947919201712738304, reseller
+myfeature.tv, n1fnlxqufcvdx3gt6mjn, reseller
+outbrain.com, 00092743fa380569f00f929c5c50dfccf8, reseller
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33094, reseller
+risecodes.com, 686ea3dfe2c0d50001e494e2, reseller
+apester.com, 2212, reseller
+gitberry.com, 335100012, reseller
+bidmachine.io, 101, reseller
+loopme.com, 15665, reseller, 6c8d5f95897a5a3b
+
 supply.colossusssp.com, 907, RESELLER
 toponad.com, 57c0214186ecc0f6b239eddf4ef3715b, DIRECT, 1d49fe424a1a456d
 acexchange.co.kr, 1368497933, RESELLER
